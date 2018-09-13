@@ -1,0 +1,2004 @@
+[
+    {
+        "outputFile": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 62,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 62,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 88,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 88,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 70,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 70,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 57,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 57,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 72,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 72,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 73,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 73,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 69,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 69,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 67,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 67,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 71,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 71,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 69,
+                    "endOffset": 1532
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 69,
+                        "endOffset": 1428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1537,
+                    "endColumn": 60,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1433,
+                        "endColumn": 60,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 60,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 60,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 60,
+                    "endOffset": 1715
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 60,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1720,
+                    "endColumn": 61,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1616,
+                        "endColumn": 61,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 63,
+                    "endOffset": 1841
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1678,
+                        "endColumn": 63,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1846,
+                    "endColumn": 61,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 61,
+                        "endOffset": 1799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endColumn": 60,
+                    "endOffset": 1964
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1804,
+                        "endColumn": 60,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1969,
+                    "endColumn": 67,
+                    "endOffset": 2032
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endColumn": 67,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2037,
+                    "endColumn": 99,
+                    "endOffset": 2132
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 99,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2137,
+                    "endColumn": 59,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 59,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 65,
+                    "endOffset": 2258
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 65,
+                        "endOffset": 2154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2263,
+                    "endColumn": 72,
+                    "endOffset": 2331
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2159,
+                        "endColumn": 72,
+                        "endOffset": 2227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2336,
+                    "endColumn": 68,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2232,
+                        "endColumn": 68,
+                        "endOffset": 2296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 56,
+                    "endOffset": 2457
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2301,
+                        "endColumn": 56,
+                        "endOffset": 2353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2462,
+                    "endColumn": 51,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2358,
+                        "endColumn": 51,
+                        "endOffset": 2405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 61,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2410,
+                        "endColumn": 61,
+                        "endOffset": 2467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2576,
+                    "endColumn": 71,
+                    "endOffset": 2643
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2472,
+                        "endColumn": 71,
+                        "endOffset": 2539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2648,
+                    "endColumn": 75,
+                    "endOffset": 2719
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2544,
+                        "endColumn": 75,
+                        "endOffset": 2615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2724,
+                    "endColumn": 34,
+                    "endOffset": 2754
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2620,
+                        "endColumn": 34,
+                        "endOffset": 2650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2759,
+                    "endColumn": 34,
+                    "endOffset": 2789
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endColumn": 34,
+                        "endOffset": 2685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2794,
+                    "endColumn": 33,
+                    "endOffset": 2823
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2690,
+                        "endColumn": 33,
+                        "endOffset": 2719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2828,
+                    "endColumn": 34,
+                    "endOffset": 2858
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2724,
+                        "endColumn": 34,
+                        "endOffset": 2754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2863,
+                    "endColumn": 34,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2759,
+                        "endColumn": 34,
+                        "endOffset": 2789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endColumn": 59,
+                    "endOffset": 2953
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 59,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2958,
+                    "endColumn": 69,
+                    "endOffset": 3023
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2794,
+                        "endColumn": 69,
+                        "endOffset": 2859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3028,
+                    "endColumn": 57,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 70,
+                    "endOffset": 3152
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2864,
+                        "endColumn": 70,
+                        "endOffset": 2930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3157,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3603
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3608,
+                    "endColumn": 116,
+                    "endOffset": 3720
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2935,
+                        "endColumn": 116,
+                        "endOffset": 3047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3725,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 3921
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3052,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 3248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3926,
+                    "endColumn": 65,
+                    "endOffset": 3987
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 65,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3992,
+                    "endColumn": 109,
+                    "endOffset": 4097
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3253,
+                        "endColumn": 109,
+                        "endOffset": 3358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4102,
+                    "endColumn": 121,
+                    "endOffset": 4219
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 121,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4224,
+                    "endColumn": 60,
+                    "endOffset": 4280
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 60,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4285,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4481
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3363,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 3559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4486,
+                    "endColumn": 65,
+                    "endOffset": 4547
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 65,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4552,
+                    "endColumn": 128,
+                    "endOffset": 4676
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3564,
+                        "endColumn": 128,
+                        "endOffset": 3688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4681,
+                    "endColumn": 66,
+                    "endOffset": 4743
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 66,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4748,
+                    "endColumn": 71,
+                    "endOffset": 4815
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3693,
+                        "endColumn": 71,
+                        "endOffset": 3760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4820,
+                    "endColumn": 66,
+                    "endOffset": 4882
+                },
+                "from": {
+                    "file": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3765,
+                        "endColumn": 66,
+                        "endOffset": 3827
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 62,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 62,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 88,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 88,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 70,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 70,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 57,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 57,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 72,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 72,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 73,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 73,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 69,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 69,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 67,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 67,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 71,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 71,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 69,
+                    "endOffset": 1532
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 69,
+                        "endOffset": 1428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1537,
+                    "endColumn": 60,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1433,
+                        "endColumn": 60,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 60,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 60,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 60,
+                    "endOffset": 1715
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 60,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1720,
+                    "endColumn": 61,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1616,
+                        "endColumn": 61,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 63,
+                    "endOffset": 1841
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1678,
+                        "endColumn": 63,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1846,
+                    "endColumn": 61,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 61,
+                        "endOffset": 1799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endColumn": 60,
+                    "endOffset": 1964
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1804,
+                        "endColumn": 60,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1969,
+                    "endColumn": 67,
+                    "endOffset": 2032
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endColumn": 67,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2037,
+                    "endColumn": 99,
+                    "endOffset": 2132
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 99,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2137,
+                    "endColumn": 59,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2033,
+                        "endColumn": 59,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 65,
+                    "endOffset": 2258
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 65,
+                        "endOffset": 2154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2263,
+                    "endColumn": 72,
+                    "endOffset": 2331
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2159,
+                        "endColumn": 72,
+                        "endOffset": 2227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2336,
+                    "endColumn": 68,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2232,
+                        "endColumn": 68,
+                        "endOffset": 2296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 56,
+                    "endOffset": 2457
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2301,
+                        "endColumn": 56,
+                        "endOffset": 2353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2462,
+                    "endColumn": 51,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2358,
+                        "endColumn": 51,
+                        "endOffset": 2405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 61,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2410,
+                        "endColumn": 61,
+                        "endOffset": 2467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2576,
+                    "endColumn": 71,
+                    "endOffset": 2643
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2472,
+                        "endColumn": 71,
+                        "endOffset": 2539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2648,
+                    "endColumn": 75,
+                    "endOffset": 2719
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2544,
+                        "endColumn": 75,
+                        "endOffset": 2615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2724,
+                    "endColumn": 34,
+                    "endOffset": 2754
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2620,
+                        "endColumn": 34,
+                        "endOffset": 2650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2759,
+                    "endColumn": 34,
+                    "endOffset": 2789
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endColumn": 34,
+                        "endOffset": 2685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2794,
+                    "endColumn": 33,
+                    "endOffset": 2823
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2690,
+                        "endColumn": 33,
+                        "endOffset": 2719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2828,
+                    "endColumn": 34,
+                    "endOffset": 2858
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2724,
+                        "endColumn": 34,
+                        "endOffset": 2754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2863,
+                    "endColumn": 34,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2759,
+                        "endColumn": 34,
+                        "endOffset": 2789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endColumn": 59,
+                    "endOffset": 2953
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 59,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2958,
+                    "endColumn": 69,
+                    "endOffset": 3023
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2794,
+                        "endColumn": 69,
+                        "endOffset": 2859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3028,
+                    "endColumn": 57,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 70,
+                    "endOffset": 3152
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2864,
+                        "endColumn": 70,
+                        "endOffset": 2930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3157,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3603
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3608,
+                    "endColumn": 116,
+                    "endOffset": 3720
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2935,
+                        "endColumn": 116,
+                        "endOffset": 3047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3725,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 3921
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3052,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 3248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3926,
+                    "endColumn": 65,
+                    "endOffset": 3987
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 65,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3992,
+                    "endColumn": 109,
+                    "endOffset": 4097
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3253,
+                        "endColumn": 109,
+                        "endOffset": 3358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4102,
+                    "endColumn": 121,
+                    "endOffset": 4219
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 121,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4224,
+                    "endColumn": 60,
+                    "endOffset": 4280
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 60,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4285,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4481
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3363,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 3559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4486,
+                    "endColumn": 65,
+                    "endOffset": 4547
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 65,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4552,
+                    "endColumn": 128,
+                    "endOffset": 4676
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3564,
+                        "endColumn": 128,
+                        "endOffset": 3688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4681,
+                    "endColumn": 66,
+                    "endOffset": 4743
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 66,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4748,
+                    "endColumn": 71,
+                    "endOffset": 4815
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3693,
+                        "endColumn": 71,
+                        "endOffset": 3760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4820,
+                    "endColumn": 66,
+                    "endOffset": 4882
+                },
+                "from": {
+                    "file": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3765,
+                        "endColumn": 66,
+                        "endOffset": 3827
+                    }
+                }
+            }
+        ]
+    }
+]

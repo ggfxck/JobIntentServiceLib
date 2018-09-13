@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]

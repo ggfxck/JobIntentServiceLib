@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0_56a4302af48d6cd0462b1a9f52458d1d1d641316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0_c80d93c76ba8be78b6cf0fa4b94f7ffbe3ad13e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0_e3072f9ac7a1d83026d5aac82de27b9dc46f1699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0_060967b3e9b81e3ea3c39cd92503c068be980f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\libs\google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bb934dbae57cc6cb9fa09aa0c049f6b500ba660c">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\google-play-services_2705b5164e5470624a5985a98f84df4521720085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0_6ab73f2014d2ad1cc7dfe3ca6bf11ce82072cdd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mice\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_3c8ec88f09a659a34268e45fbfcfa477f081d41c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="E:\workspace\2018\SafeOnPushClient_v4.1_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0_6f18b05e18ad82cc87b02009354233cb3984f501.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\workspace\\2018\\SafeOnPushClient_v4.1_studio\\SafeOnPushTest_v4.1_lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\workspace\\GCMTEST\\lib\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
